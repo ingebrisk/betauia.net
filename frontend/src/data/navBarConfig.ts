@@ -106,6 +106,12 @@ export const navigationDropdowns: NavigationDropdown[] = [
         desc: "Gjør deg klar for generalforsamling eller se hva som har blitt gjort tidligere.",
         href: "/genfors",
       },
+      {
+        icon: "fa-solid:gamepad",
+        title: "BetaLAN",
+        desc: "Bli med på LAN-party og game bort eksamenssorgen hvert semmester!",
+        href: "/betalan",
+      },
     ],
   },
   {
